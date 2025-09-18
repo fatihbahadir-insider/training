@@ -1,0 +1,36 @@
+.main-container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.header-container h1 {
+    color: red;
+    text-align: center;
+}
+
+.header-container ul {
+    list-style-type: none;
+}
+
+.header-container ul li {
+    display: inline;
+    margin-right: 30px;
+}
+
+.home-container {
+    text-align: center;
+}
+
+.title {
+    color: purple;
+}
+
+.subtitle {
+    color: orange;
+}
+
+.home-container ul li {
+    list-style-position: inside;
+}
